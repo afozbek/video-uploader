@@ -1,0 +1,31 @@
+* {
+  /* color: red; */
+}
+
+.o-app__header {
+  color: green;
+  text-align: center;
+}
+
+.o-app__video {
+  width: 1000px;
+  height: 600px;
+  margin: 0 auto;
+  display: block;
+}
+
+.o-app__form {
+  display: flex;
+  justify-content: space-around;
+}
+
+.o-app__file {
+  /* File */
+}
+
+.o-app__submit {
+  /* margin: 0 auto; */
+  /* display: block; */
+}
+
+/* YENİ CSS LER EKLENİCEK */
